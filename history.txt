@@ -1,0 +1,58 @@
+ 1  ls
+    2  ls -al
+    3  cd Documents
+    4  ls
+    5  mkdir Bugayong
+    6  ls
+    7  cd Bugayong
+    8  ls
+    9  cd ..
+   10  cd Bugayong
+   11  ls
+   12  touch readme.md
+   13  ls
+   14  start readme.md
+   15  touch test.txt
+   16  ls
+   17  rm test.txt
+   18  ls
+   19  start readme.md
+   20  git config --global user.name
+   21  git config --global user.name
+   22  $git config --global user.name "mrbb06-tech"
+   23  git config --global user.name "mrbb06-tech"
+   24  $git config --global user.name
+   25  git config --global user.name
+   26  git config --global user.email
+   27  git config --global user.email "marcusrozarbbugayong06@gmail.com"
+   28  git config --global user.email
+   29  git init
+   30  cd .git
+   31  cd ..
+   32  git status
+   33  git add .
+   34  git status
+   35  git commit
+   36  git status
+   37  git commit -m "first commit"
+   38  git branch -M main
+   39  git remote add origin https://github.com/mrbb06-tech/Bugayong.git
+   40  git push
+   41  git push -u origin main
+   42  git add .
+   43  git status
+   44  git commit -m "2nd commit"
+   45  git push
+   46  history
+   47  cd ..
+   48  git clone https://github.com/mrbb06-tech/Bugayong.git
+   49  git .
+   50  cd .
+   51  history
+   52  ls
+   53  cd Bugayong
+   54  ls
+   55  touch history.txt
+   56  ls
+   57  start history.txt
+   58  history
